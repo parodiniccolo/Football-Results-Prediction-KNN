@@ -1,4 +1,4 @@
-# Football Scores Prediction using KNN
+# Football Results Prediction using KNN
 
 ## Datasets:
 - Fifa 21 Complete Player Dataset from keggle.com
