@@ -49,7 +49,7 @@ Python Notebook (.ipynb)
 - Sklearn for predictive model creation and training
 
 ## Achievements:
-Below are two of the results obtained from the prediction, one related to the Italian league and one related to the Champions League.
+Below there are two of the results obtained from the prediction, one related to the Italian league and one related to the Champions League.
 
 The model predicts Inter as the winner after 9 consecutive championships obtained by Juventus. Inter will then actually be champion of Italy for the 2020-2021 season, thus confirming the goodness of the prediction.
 
